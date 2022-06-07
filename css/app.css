@@ -1,3 +1,16 @@
 .Wacken {
   max-width: 500px;
+  display: block;
+  margin: 0 auto;
+}
+body {
+  background: violet;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+a {
+  color: whitesmoke;
+  font-size: 20px;
 }
